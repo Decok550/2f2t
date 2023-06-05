@@ -14,4 +14,25 @@ body {
 }
 .conteudo {
    display: grid;
+  grid-template-rows: 20% 20% 20% 20% 20%;
+}
+.barra{
+    background-color: yellow;
+    height: 20vh;
+}
+
+.principal{
+    background-color: red;
+    height: 40vh;
+}
+.lado{
+    background-color:blue;
+    height: 20vh;
+}
+.rodape{
+    background-color:rgb(247, 0, 255);
+    height: 20vh;
+}
+.meu-site{
+
 }
