@@ -143,6 +143,8 @@ div[class^="item-"]{
 }
 .info{
     display: grid;
+    width: 100vw;
+
 }
 
 @media (min-width: 820px) {
@@ -227,7 +229,7 @@ div[class^="item-"]{
         width: 15vh;
         margin: 5px;
     }
-    .conteudo-droga {
+    .info {
         grid-template-columns: 33% 34% 33%;
         grid-template-areas: 
          "geral geral geral";
