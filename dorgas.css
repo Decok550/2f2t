@@ -136,7 +136,7 @@ ul{
 }
 
 div[class^="item-"]{
-    background-color: rgb(108, 163, 108);
+    background-color: rgb(150, 158, 150);
     height: 200px;
     margin: 5px;
     grid-area: "info";
@@ -226,7 +226,7 @@ div[class^="item-"]{
     }
 
     #logo {
-        width: 15vh;
+        width: 12vh;
         margin: 5px;
     }
     .info {
